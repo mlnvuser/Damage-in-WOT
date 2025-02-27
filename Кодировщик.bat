@@ -1,0 +1,1 @@
+pyuic5 damage.ui -o damage.py
